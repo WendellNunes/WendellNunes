@@ -11,27 +11,28 @@ Aqui no GitHub compartilho projetos, experimentos educacionais e ferramentas vol
 
 ---
 
-## 🌐 Redes e Contato
+# 🌐 Redes e Contato
 
-📧 **Email:** prefablabs@gmail.com  
+📧 **Email:**  
+<a href="mailto:prefablabs@gmail.com">✉️ Enviar Email</a>
 
 📸 **Instagram:**  
-https://www.instagram.com/prefablabs  
+<a href="https://www.instagram.com/prefablabs">Abrir Instagram</a>
 
 📘 **Facebook:**  
-https://www.facebook.com/share/1Btz7fCjxQ/  
+<a href="https://www.facebook.com/share/1Btz7fCjxQ/">Abrir Facebook</a>
 
 🎵 **TikTok:**  
-https://www.tiktok.com/@prefab_labs  
+<a href="https://www.tiktok.com/@prefab_labs">Abrir TikTok</a>
 
 📱 **Kwai:**  
-https://kwai-video.com/u/@prefablabs/BbCmxPWd  
+<a href="https://kwai-video.com/u/@prefablabs/BbCmxPWd">Abrir Kwai</a>
 
 🐦 **X (Twitter):**  
-https://x.com/Prefab_labs  
+<a href="https://x.com/Prefab_labs">Abrir X</a>
 
 💼 **LinkedIn:**  
-https://www.linkedin.com/in/prefab-laboratório-7314943b1  
+<a href="https://www.linkedin.com/in/prefab-laboratório-7314943b1">Abrir LinkedIn</a>
 
 ---
 
@@ -56,11 +57,11 @@ https://www.linkedin.com/in/prefab-laboratório-7314943b1
 
 ## 🤖 Linguagens e Tecnologias
 
-<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align="left" alt="C#" title="C#" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+<img align="left" alt="HTML" title="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS" title="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img align="left" alt="JavaScript" title="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="left" alt="Git" title="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Python" title="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" alt="C#" title="C#" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 
-<br/>
+<br/><br/>
