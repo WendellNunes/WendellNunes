@@ -9,6 +9,10 @@ Sou professor há 5 anos, apaixonado por **tecnologia educacional, metodologias 
 
 Aqui no GitHub compartilho projetos, experimentos educacionais e ferramentas voltadas ao ensino da saúde.
 
+---
+
+## 🌐 Contato e Redes
+
 <p align="left">
 <a href="mailto:prefablabs@gmail.com">📧 Email</a> •
 <a href="https://www.instagram.com/prefablabs">📸 Instagram</a> •
@@ -19,32 +23,27 @@ Aqui no GitHub compartilho projetos, experimentos educacionais e ferramentas vol
 <a href="https://www.linkedin.com/in/prefab-laboratório-7314943b1">💼 LinkedIn</a>
 </p>
 
+---
+
+## 📊 Estatísticas
+
 <p align="left">
-    <a href="https://github.com/WendellNunes?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/WendellNunes?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas" 
-        />
-    </a>
-    <a href="https://github.com/WendellNunes?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/WendellNunes?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" 
-        />
-    </a>
+
+<img src="https://custom-icon-badges.demolab.com/github/stars/WendellNunes?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"/>
+<img src="https://custom-icon-badges.demolab.com/github/followers/WendellNunes?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
+<img src="https://komarev.com/ghpvc/?username=WendellNunes&style=for-the-badge&color=blue" alt="visitas"/>
+
 </p>
 
 ---
 
 ## 🤖 Linguagens e Tecnologias
 
-<img align="left" alt="HTML" title="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS" title="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img align="left" alt="JavaScript" title="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="left" alt="Git" title="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Python" title="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" alt="C#" title="C#" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+<img align="left" alt="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" alt="C#" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 
 <br/><br/>
