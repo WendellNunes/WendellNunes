@@ -9,32 +9,15 @@ Sou professor há 5 anos, apaixonado por **tecnologia educacional, metodologias 
 
 Aqui no GitHub compartilho projetos, experimentos educacionais e ferramentas voltadas ao ensino da saúde.
 
----
-
-# 🌐 Redes e Contato
-
-📧 **Email:**  
-<a href="mailto:prefablabs@gmail.com">✉️ Enviar Email</a>
-
-📸 **Instagram:**  
-<a href="https://www.instagram.com/prefablabs">Abrir Instagram</a>
-
-📘 **Facebook:**  
-<a href="https://www.facebook.com/share/1Btz7fCjxQ/">Abrir Facebook</a>
-
-🎵 **TikTok:**  
-<a href="https://www.tiktok.com/@prefab_labs">Abrir TikTok</a>
-
-📱 **Kwai:**  
-<a href="https://kwai-video.com/u/@prefablabs/BbCmxPWd">Abrir Kwai</a>
-
-🐦 **X (Twitter):**  
-<a href="https://x.com/Prefab_labs">Abrir X</a>
-
-💼 **LinkedIn:**  
-<a href="https://www.linkedin.com/in/prefab-laboratório-7314943b1">Abrir LinkedIn</a>
-
----
+<p align="left">
+<a href="mailto:prefablabs@gmail.com">📧 Email</a> •
+<a href="https://www.instagram.com/prefablabs">📸 Instagram</a> •
+<a href="https://www.facebook.com/share/1Btz7fCjxQ/">📘 Facebook</a> •
+<a href="https://www.tiktok.com/@prefab_labs">🎵 TikTok</a> •
+<a href="https://kwai-video.com/u/@prefablabs/BbCmxPWd">📱 Kwai</a> •
+<a href="https://x.com/Prefab_labs">🐦 X</a> •
+<a href="https://www.linkedin.com/in/prefab-laboratório-7314943b1">💼 LinkedIn</a>
+</p>
 
 <p align="left">
     <a href="https://github.com/WendellNunes?tab=repositories&sort=stargazers">
